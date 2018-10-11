@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>865366264113-c1eefp3bt3girn4tn5ie99a80irr7edl.apps.googleusercontent.com</string>
+	<string>872345642600-2okcvsf5em8gdo58m78700u5lu8fncd8.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.865366264113-c1eefp3bt3girn4tn5ie99a80irr7edl</string>
+	<string>com.googleusercontent.apps.872345642600-2okcvsf5em8gdo58m78700u5lu8fncd8</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBvpZctLcNE9uyJ28PPxGKQHe-piT-8uNA</string>
+	<string>AIzaSyC9A1fqeITijMEUUIdIiAabPITSlUA8NHs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>865366264113</string>
+	<string>872345642600</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dl.ayadi</string>
+	<string>com.dl.ayadistore</string>
 	<key>PROJECT_ID</key>
-	<string>ayadi-25dec</string>
+	<string>ayadi-store-mobile</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ayadi-25dec.appspot.com</string>
+	<string>ayadi-store-mobile.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:865366264113:ios:bc16240c75f5419c</string>
+	<string>1:872345642600:ios:41694d6192d07a4b</string>
 	<key>DATABASE_URL</key>
-	<string>https://ayadi-25dec.firebaseio.com</string>
+	<string>https://ayadi-store-mobile.firebaseio.com</string>
 </dict>
 </plist>
