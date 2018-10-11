@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "865366264113",
-    "firebase_url": "https://ayadi-25dec.firebaseio.com",
-    "project_id": "ayadi-25dec",
-    "storage_bucket": "ayadi-25dec.appspot.com"
+    "project_number": "872345642600",
+    "firebase_url": "https://ayadi-store-mobile.firebaseio.com",
+    "project_id": "ayadi-store-mobile",
+    "storage_bucket": "ayadi-store-mobile.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:865366264113:android:bc16240c75f5419c",
+        "mobilesdk_app_id": "1:872345642600:android:41694d6192d07a4b",
         "android_client_info": {
-          "package_name": "com.dl.ayadi"
+          "package_name": "com.dl.ayadistore"
         }
       },
       "oauth_client": [
         {
-          "client_id": "865366264113-ml0r649g0j353mqlibsta37osiufusnu.apps.googleusercontent.com",
+          "client_id": "872345642600-mvnu7bvor9okpaqj6u7ipks7k5g3u8qr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.dl.ayadi",
+            "package_name": "com.dl.ayadistore",
             "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
           }
         },
         {
-          "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
+          "client_id": "872345642600-om7r3r64p79gi8lc8lqm35tsilg8lkat.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD5cNpL-apklOXzI8tIgESVrp25iaXeQJ4"
+          "current_key": "AIzaSyAcSngw6q5rzpiigvQ0DQV2OT4BVCI5OV8"
         }
       ],
       "services": {
@@ -40,14 +40,14 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
+              "client_id": "872345642600-om7r3r64p79gi8lc8lqm35tsilg8lkat.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "865366264113-c1eefp3bt3girn4tn5ie99a80irr7edl.apps.googleusercontent.com",
+              "client_id": "872345642600-2okcvsf5em8gdo58m78700u5lu8fncd8.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.dl.ayadi"
+                "bundle_id": "com.dl.ayadistore"
               }
             }
           ]
