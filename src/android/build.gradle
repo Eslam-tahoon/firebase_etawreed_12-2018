@@ -17,7 +17,3 @@ dependencies {
     compile 'com.google.firebase:firebase-crash:+'
     compile 'com.google.firebase:firebase-auth:16.0.3'
 }
-
-resolutionStrategy {
-    force "com.airbnb.android:lottie:2.5.5"
-}
